@@ -1,0 +1,3 @@
+dependencies:
+  pcf8563:
+    path: ..

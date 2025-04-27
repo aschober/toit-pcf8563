@@ -1,0 +1,5 @@
+prefixes:
+  pcf8563: ..
+packages:
+  ..:
+    path: ..
